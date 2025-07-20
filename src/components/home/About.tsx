@@ -206,7 +206,7 @@ export default function About() {
                 <span className="text-blue-400 font-medium"> connect</span>,
                 <span className="text-purple-400 font-medium"> compete</span>, and
                 <span className="text-cyan-400 font-medium"> evolve</span>.
-                We're revolutionizing how beings across the cosmos discover, organize, and participate in multi-dimensional sports.
+                We&apos;s re revolutionizing how beings across the cosmos discover, organize, and participate in multi-dimensional sports.
               </p>
             </div>
 

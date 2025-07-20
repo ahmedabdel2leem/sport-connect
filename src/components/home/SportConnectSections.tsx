@@ -426,7 +426,8 @@ export default function SportConnectSections() {
                 <section className="space-y-12">
                     <div className="text-center space-y-6">
                         <h2 className="text-5xl md:text-6xl font-black bg-gradient-to-r from-green-400 via-blue-400 to-purple-400 bg-clip-text text-transparent">
-                            WHO IT'S FOR
+                            WHO IT&apos;S FOR
+
                         </h2>
                         <p className="text-xl text-gray-300 max-w-3xl mx-auto">
                             SportConnect serves every type of cosmic athlete across all skill levels and dimensions

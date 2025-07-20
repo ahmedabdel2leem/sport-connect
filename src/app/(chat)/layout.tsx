@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 import "../globals.css";
-import { DotPattern } from "@/components/magicui/dot-pattern";
+// import { DotPattern } from "@/components/magicui/dot-pattern";
 import Navbar from "@/components/layout/Navbar";
 import Footer from "@/components/layout/Footer";
 
@@ -33,7 +33,7 @@ export default function RootLayout({
       >
         <Navbar />
 
-        {/*<div className=" flex  w-full flex-col items-center justify-center overflow-hidden  h-full absolute top-0 left-0">*/}
+        {/*<div className=" flex w-full flex-col items-center justify-center overflow-hidden  h-full absolute top-0 left-0">*/}
         {/*  <DotPattern*/}
         {/*    className={*/}
         {/*      "[mask-image:radial-gradient(59%_48%_at_center,white,transparent)]"*/}

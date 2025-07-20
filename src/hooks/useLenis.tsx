@@ -1,6 +1,6 @@
 import { useEffect } from "react";
 import Lenis from "lenis";
-import AOS from "aos";
+// import AOS from "aos";
 // import "aos/dist/aos.css";
 
 const useLenisScroll = () => {
